@@ -6,4 +6,4 @@ I made a first version of this same bot using JDA (Java) and now I´m rewriting 
 Made using discord.js: https://github.com/discordjs/discord.js
 
 
-Note: The files don't include discord.js files and neither node files.
+Note: The files don't include discord.js files neither node files.
