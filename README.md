@@ -1,5 +1,5 @@
 # discord-log-bot-js
-A test bot that create a audit log in a discord server written in JavaScript.
+A test bot that create a audit log in a discord server written in JavaScript. ((Work in progress))
 
 I made a first version of this same bot using JDA (Java) and now I´m rewriting it using discord.js (JavaScript).
 
